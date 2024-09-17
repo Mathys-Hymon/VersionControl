@@ -1,5 +1,9 @@
 tatatat
 HITSAMIIIII MARIOOOOOO
 
+<<<<<<< HEAD
 guess who's back
 jim
+=======
+guest
+>>>>>>> superCoolBranch
